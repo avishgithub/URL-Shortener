@@ -63,7 +63,7 @@ php artisan migrate
 
 php artisan serve
 
-7.**Access the app**
+7. **Access the app**
 
 Open your browser and visit: http://127.0.0.1:8000
 
